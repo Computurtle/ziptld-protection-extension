@@ -1,0 +1,7 @@
+{
+    "name": "TLD Phishing Protection",
+    "description": "Helps defend against phishing attacks from .zip/.mov TLDs!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "webNavigation", "tabs"]
+}
